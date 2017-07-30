@@ -2,5 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/app/src/main/java/com/bignerdranch/android/gittestnwg" vcs="Git" />
+    <mapping directory="C:\androidProjects\GitTestNwG\NuttenWissenGut" vcs="Git" />
   </component>
 </project>
